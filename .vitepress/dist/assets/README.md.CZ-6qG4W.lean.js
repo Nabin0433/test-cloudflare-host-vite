@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as r}from"./chunks/framework.C94oF1kp.js";const d=JSON.parse('{"title":"React + Vite","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"},s=r("",4),l=[s];function n(o,c,_,p,h,f){return a(),t("div",null,l)}const m=e(i,[["render",n]]);export{d as __pageData,m as default};
